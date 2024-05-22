@@ -35,7 +35,7 @@
 
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"/></code>
 
 ---
 ### 🏆 GitHub Profile Trophy

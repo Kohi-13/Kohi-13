@@ -3,7 +3,7 @@
 ---
 ### 💡 Um pouco sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na Unopar.
@@ -11,6 +11,7 @@
 - 🌱 Aprendendo mais sobre HTML, CSS, JS, C, C++.
 
 ### ⭐ GitHub Stats
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kohi-13&theme=dracula&show_icons=true)
 [![Kohi-13](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohi-13&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

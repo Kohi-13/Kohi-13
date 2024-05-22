@@ -34,7 +34,7 @@
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git"/></code>
+<code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Logo-White.svg" alt="Git"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"/></code>
 
 ---
